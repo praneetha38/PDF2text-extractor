@@ -1,0 +1,4 @@
+streamlit
+pdfminer
+pdf2image
+pytesseract
