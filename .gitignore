@@ -1,0 +1,2 @@
+ Ignore Python cache and virtual env
+__pycache__/
